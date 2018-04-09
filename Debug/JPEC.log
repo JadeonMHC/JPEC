@@ -1,0 +1,6 @@
+﻿  JPEC.cpp
+z:\personal\jpec\jpec\jpec.cpp(27): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+z:\personal\jpec\jpec\jpec.cpp(45): warning C4018: '<': signed/unsigned mismatch
+z:\personal\jpec\jpec\jpec.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+z:\personal\jpec\jpec\jpec.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  JPEC.vcxproj -> Z:\Personal\JPEC\Debug\JPEC.exe
